@@ -1818,7 +1818,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@backstage/cli@npm:^0.26.3-next.0":
+"@backstage/cli@backstage:1.26.0-next.0":
   version: 0.26.3-next.0
   resolution: "@backstage/cli@npm:0.26.3-next.0"
   dependencies:
@@ -2023,7 +2023,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@backstage/release-manifests@npm:^0.0.11":
+"@backstage/release-manifests@backstage:1.26.0-next.0, @backstage/release-manifests@npm:^0.0.11":
   version: 0.0.11
   resolution: "@backstage/release-manifests@npm:0.0.11"
   dependencies:
@@ -16198,8 +16198,8 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "yarn-plugin-backstage@workspace:."
   dependencies:
-    "@backstage/cli": "npm:^0.26.3-next.0"
-    "@backstage/release-manifests": "npm:^0.0.11"
+    "@backstage/cli": "backstage:*"
+    "@backstage/release-manifests": "backstage:*"
     "@spotify/prettier-config": "npm:^12.0.0"
     "@yarnpkg/builder": "npm:^4.0.0"
     "@yarnpkg/core": "npm:^4.0.3"
