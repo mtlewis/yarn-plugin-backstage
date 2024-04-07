@@ -28,5 +28,6 @@
   "files": [
     "dist/**/*.js"
   ],
-  "prettier": "@spotify/prettier-config"
+  "prettier": "@spotify/prettier-config",
+  "packageManager": "yarn@4.1.1"
 }
