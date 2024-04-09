@@ -1,3 +1,5 @@
+# This repository has been archived - the plugin will be contribued to backstage/backstage. See https://github.com/backstage/backstage/pull/24136.
+
 # yarn-plugin-backstage
 
 This repository contains a proof-of-concept yarn plugin for working with
